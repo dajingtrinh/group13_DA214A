@@ -5,6 +5,7 @@ public class CalculatorWithLambdas {
     }
 
     public static void main(String[] args) {
+        long startingTime = System.currentTimeMillis();
         Calculator addition = (x, y) -> x + y;
         System.out.println(addition.calculate(1, 2)); // 2
 
@@ -16,5 +17,12 @@ public class CalculatorWithLambdas {
 
         Calculator remainder = (x, y) -> x % y;
         System.out.println(remainder.calculate(1, 2)); // 1
+        long endingTime = System.currentTimeMillis();
+
+        double result = endingTime - startingTime;
+        System.out.println(result + "ms");
     }
 }
+
+
+
