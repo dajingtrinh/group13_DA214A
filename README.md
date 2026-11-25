@@ -1,6 +1,8 @@
-[![Java](https://img.shields.io/badge/Java-21-orange)](https://www.oracle.com/se/java/technologies/downloads/)
-
 # Using Lambdas and Streams in Java
+## Group 13
+We consist of:
+- Anton Bjäreborn
+- Da Jing Trinh
 
 ## Main objectives
 - Explain what the benefits and drawbacks are of using lambdas and streams.
