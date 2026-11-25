@@ -5,24 +5,16 @@ public class CalculatorWithLambdas {
     }
 
     public static void main(String[] args) {
-        long startingTime = System.currentTimeMillis();
-        Calculator addition = (x, y) -> x + y;
-        System.out.println(addition.calculate(1, 2)); // 2
-
-        Calculator subtraction = (x, y) -> x - y;
-        System.out.println(subtraction.calculate(1, 2)); // -1
-
-        Calculator multiplication = (x, y) -> x * y;
-        System.out.println(multiplication.calculate(1, 2)); // 2
-
+        // Using lambdas expressions.
+        Calculator add = (x, y) -> x + y;
+        Calculator subtract = (x, y) -> x - y;
+        Calculator multiply = (x, y) -> x * y;
         Calculator remainder = (x, y) -> x % y;
-        System.out.println(remainder.calculate(1, 2)); // 1
-        long endingTime = System.currentTimeMillis();
 
-        double result = endingTime - startingTime;
-        System.out.println(result + "ms");
+        System.out.println(add.calculate(1, 2)); // 3
+        System.out.println(subtract.calculate(1, 2)); // -1
+        System.out.println(multiply.calculate(1, 2)); // 2
+        System.out.println(remainder.calculate(1, 2)); // 1
     }
 }
-
-
 
