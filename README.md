@@ -16,6 +16,5 @@
 - _figure 3_: [CalculatorWithoutLambdas.java](CalculatorWithoutLambdas.java), written by Da Jing Trinh.
 - _figure 4_: [CalculatorWithLambdas.java](CalculatorWithLambdas.java) written by Da Jing Trinh.
 - _figure 5_: streamSum(), written by Anton Bjäreborn.
-- _figure 6_: forLoopSum(), written by Anton Bjäreborn.
 - _figure 7_: streamMap(), written by Anton Bjäreborn.
 - _figure 8_: streamPipeline(), written by Anton Bjäreborn.
