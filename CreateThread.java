@@ -1,4 +1,4 @@
-public class Lambdas {
+public class CreateThread {
     public static void main(String[] args) {
         // Lambda Expression.
         Runnable runnable = () -> System.out.println
