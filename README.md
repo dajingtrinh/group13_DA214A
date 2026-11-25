@@ -12,7 +12,7 @@
 
 ## References to the code examples
 - _figure 1_ and _figure 6_ are written by Anton Bjäreborn. You can find the code here.
-- _figure 2_: [CreateThread.java](CreateThread.java)CreateThread.java, written by Da Jing Trinh.
+- _figure 2_: [CreateThread.java](CreateThread.java), written by Da Jing Trinh.
 - _figure 3_: [CalculatorWithoutLambdas.java](CalculatorWithoutLambdas.java), written by Da Jing Trinh.
 - _figure 4_: [CalculatorWithLambdas.java](CalculatorWithLambdas.java) written by Da Jing Trinh.
 - _figure 5_: streamSum(), written by Anton Bjäreborn.
