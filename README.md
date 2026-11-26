@@ -13,7 +13,7 @@ We consist of:
 
 ## Link to the video
 [Google Drive](https://drive.google.com/file/d/1PTg8PZZQBGbJei2ZYrRJo7tp-A5U6fxA/view?usp=sharing)
-[Youtube](https://youtu.be/p9-kUqEDqVk)
+[Youtube](https://youtu.be/8IeLgypDTfU)
 
 ## References to the code examples
 - _figure 1, 5, 6, 7 and 8_ [Streams.java](Streams.java), written by Anton Bjäreborn.
