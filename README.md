@@ -19,3 +19,4 @@ We consist of:
 - _figure 2_: [CreateThread.java](CreateThread.java), written by Da Jing Trinh.
 - _figure 3_: [CalculatorWithoutLambdas.java](CalculatorWithoutLambdas.java), written by Da Jing Trinh.
 - _figure 4_: [CalculatorWithLambdas.java](CalculatorWithLambdas.java) written by Da Jing Trinh.
+- The benchmark files: [PerformanceWithLambdas.java](PerformanceWithLambdas.java) and [PerformanceWithoutLambdas.java](PerformanceWithoutLambdas.java), written by Da Jing Trinh.
