@@ -11,6 +11,8 @@ We consist of:
 - More generally explain to what extent one can use functional programming in Java, what are the limitations?
 
 ## Link to the video
+[Google Drive](https://drive.google.com/file/d/1PTg8PZZQBGbJei2ZYrRJo7tp-A5U6fxA/view?usp=sharing)
+[Youtube]
 
 ## References to the code examples
 - _figure 1, 5, 6, 7 and 8_ [Streams.java](Streams.java), written by Anton Bjäreborn.
