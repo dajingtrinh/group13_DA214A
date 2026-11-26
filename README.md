@@ -1,3 +1,4 @@
+[![Java](https://img.shields.io/badge/Java-21-orange)](https://www.oracle.com/se/java/technologies/downloads/)
 # Using Lambdas and Streams in Java
 ## Group 13
 We consist of:
